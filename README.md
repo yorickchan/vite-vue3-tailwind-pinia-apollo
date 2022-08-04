@@ -10,5 +10,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Create new project
 
 ```
-npx degit user/project#main my-project
+npx degit yorickchan/vite-vue3-tailwind-pinia-apollo my-project
 ```
